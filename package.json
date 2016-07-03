@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/thecotne/fp#readme",
   "dependencies": {
-    "ramda": "^0.19.1"
+    "ramda": "^0.21.0"
   },
   "devDependencies": {
     "jasmine": "^2.4.1",
