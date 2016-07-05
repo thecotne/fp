@@ -7,6 +7,7 @@ charset = utf-8
 indent_style = space
 indent_size = 4
 
-[{package.json,jasmine.json}]
+[{package.json,jasmine.json,*.yml}]
 indent_style = space
 indent_size = 2
+
