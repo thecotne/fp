@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jasmine",
     "istanbul": "istanbul cover --root src node_modules/jasmine/bin/jasmine.js",
-    "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
+    "codecov": "codecov"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
     "ramda": "^0.21.0"
   },
   "devDependencies": {
+    "codecov": "^1.0.1",
     "coveralls": "^2.11.9",
     "istanbul": "^0.4.4",
     "jasmine": "^2.4.1",
