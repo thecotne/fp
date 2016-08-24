@@ -27,6 +27,6 @@
     "coveralls": "^2.11.9",
     "istanbul": "^0.4.4",
     "jasmine": "^2.4.1",
-    "jasmine-expect": "^2.0.0-beta2"
+    "jasmine-expect": "^3.0.1"
   }
 }
