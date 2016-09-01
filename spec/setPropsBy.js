@@ -1,5 +1,3 @@
-require('jasmine-expect');
-
 var setPropsBy = require('../src/setPropsBy');
 
 describe('setPropsBy', function() {

@@ -1,5 +1,3 @@
-require('jasmine-expect');
-
 var rename = require('../src/rename');
 
 describe('rename', function() {

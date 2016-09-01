@@ -1,5 +1,3 @@
-require('jasmine-expect');
-
 var binToArray = require('../src/binToArray');
 
 describe('binToArray', function() {

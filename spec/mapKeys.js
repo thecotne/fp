@@ -1,5 +1,3 @@
-require('jasmine-expect');
-
 var mapKeys = require('../src/mapKeys');
 
 describe('mapKeys', function() {

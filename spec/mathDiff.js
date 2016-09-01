@@ -1,5 +1,3 @@
-require('jasmine-expect');
-
 var mathDiff = require('../src/mathDiff');
 
 describe('mathDiff', function() {

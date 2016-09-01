@@ -1,5 +1,3 @@
-require('jasmine-expect');
-
 var log = require('../src/log');
 
 describe('log', function() {

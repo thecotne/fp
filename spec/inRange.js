@@ -1,5 +1,3 @@
-require('jasmine-expect');
-
 var inRange = require('../src/inRange');
 
 describe('inRange', function() {

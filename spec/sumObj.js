@@ -1,5 +1,3 @@
-require('jasmine-expect');
-
 var sumObj = require('../src/sumObj');
 
 describe('sumObj', function() {
