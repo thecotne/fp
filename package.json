@@ -23,7 +23,7 @@
     "ramda": "^0.23.0"
   },
   "devDependencies": {
-    "codecov": "^1.0.1",
+    "codecov": "^2.0.1",
     "coveralls": "^2.11.9",
     "istanbul": "^0.4.4",
     "jasmine": "^2.5.2",
