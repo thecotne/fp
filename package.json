@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/thecotne/fp#readme",
   "dependencies": {
-    "ramda": "^0.24.1"
+    "ramda": "^0.25.0"
   },
   "devDependencies": {
     "codecov": "^2.0.1",
